@@ -1,0 +1,17 @@
+{
+  "posts/post-with-code/index.qmd": {
+    "index.html": "4b49ffef"
+  },
+  "posts/welcome/index.qmd": {
+    "index.html": "410e84a0"
+  },
+  "posts/ml-clinical-challenges.qmd": {
+    "ml-clinical-challenges.html": "2f338486"
+  },
+  "index.qmd": {
+    "index.html": "aef5209d"
+  },
+  "about.qmd": {
+    "about.html": "2176c098"
+  }
+}
