@@ -7,24 +7,45 @@
     "text": "About this blog"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/ml-clinical-challenges.html",
+    "href": "posts/ml-clinical-challenges.html",
+    "title": "Challenges of Applying Machine Learning in Clinical Settings",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Machine learning has become an increasingly popular tool in healthcare, with applications ranging from disease prediction to medical image analysis and clinical decision support. By analyzing large volumes of patient data, machine learning models can identify patterns that help doctors diagnose conditions earlier, personalize treatments, and improve overall patient care.\nWith the advent of new tools and Agentic Systems especially, every player in the system wants to deploy this technology in their industry whether it is to keep up with the trend or reduce the abundance of data that overwhelms the employees.\nHowever, applying machine learning in real clinical environments is far more challenging than it may initially appear."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "posts/ml-clinical-challenges.html#clinical-data-quality",
+    "href": "posts/ml-clinical-challenges.html#clinical-data-quality",
+    "title": "Challenges of Applying Machine Learning in Clinical Settings",
+    "section": "Clinical Data Quality",
+    "text": "Clinical Data Quality\nOne major challenge is the quality and lack of clinical data. Medical records are often incomplete, inconsistent, and noisy. Important information may be missing, recorded differently across hospitals, or stored in unstructured clinical notes. These issues make it difficult to build reliable models that perform well across different healthcare systems."
+  },
+  {
+    "objectID": "posts/ml-clinical-challenges.html#interpretability-and-trust",
+    "href": "posts/ml-clinical-challenges.html#interpretability-and-trust",
+    "title": "Challenges of Applying Machine Learning in Clinical Settings",
+    "section": "Interpretability and Trust",
+    "text": "Interpretability and Trust\nInterpretability is also critical. Clinicians must keep in mind that not all people are particularly comfortable with sharing their data with a machine that might not follow the same privacy protocols they get with a doctor-patient confidentiality clause making the number of records to be interpreted less and not exactly reliable."
+  },
+  {
+    "objectID": "posts/ml-clinical-challenges.html#ias-and-fairness",
+    "href": "posts/ml-clinical-challenges.html#ias-and-fairness",
+    "title": "Challenges of Applying Machine Learning in Clinical Settings",
+    "section": "ias and Fairness",
+    "text": "ias and Fairness\nBias and fairness present additional concerns. If training data does not represent all patient groups equally, models may perform worse for underrepresented populations, potentially leading to unequal care. This is a primary concern in diseases that are particularly rare which in turn shrinks the data collected even further leading to a model which is fairly biased."
+  },
+  {
+    "objectID": "posts/ml-clinical-challenges.html#conclusion",
+    "href": "posts/ml-clinical-challenges.html#conclusion",
+    "title": "Challenges of Applying Machine Learning in Clinical Settings",
+    "section": "Conclusion",
+    "text": "Conclusion\nIn summary, while machine learning holds great promise for improving healthcare, successfully deploying it in clinical environments requires overcoming challenges related to data quality, ethics, interpretability, and fairness."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "my-blog",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 14, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Challenges of Applying Machine Learning in Clinical Settings\n\n\n\nHealthcare\n\nMachine Learning\n\nData Science\n\n\n\n\n\n\n\n\n\nJan 17, 2026\n\n\nGurleen Kaur\n\n\n\n\n\nNo matching items"
   }
 ]
