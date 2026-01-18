@@ -28,11 +28,11 @@
     "text": "Interpretability and Trust\nInterpretability is also critical. Clinicians must keep in mind that not all people are particularly comfortable with sharing their data with a machine that might not follow the same privacy protocols they get with a doctor-patient confidentiality clause making the number of records to be interpreted less and not exactly reliable."
   },
   {
-    "objectID": "posts/ml-clinical-challenges.html#ias-and-fairness",
-    "href": "posts/ml-clinical-challenges.html#ias-and-fairness",
+    "objectID": "posts/ml-clinical-challenges.html#bias-and-fairness",
+    "href": "posts/ml-clinical-challenges.html#bias-and-fairness",
     "title": "Challenges of Applying Machine Learning in Clinical Settings",
-    "section": "ias and Fairness",
-    "text": "ias and Fairness\nBias and fairness present additional concerns. If training data does not represent all patient groups equally, models may perform worse for underrepresented populations, potentially leading to unequal care. This is a primary concern in diseases that are particularly rare which in turn shrinks the data collected even further leading to a model which is fairly biased."
+    "section": "Bias and Fairness",
+    "text": "Bias and Fairness\nBias and fairness present additional concerns. If training data does not represent all patient groups equally, models may perform worse for underrepresented populations, potentially leading to unequal care. This is a primary concern in diseases that are particularly rare which in turn shrinks the data collected even further leading to a model which is fairly biased."
   },
   {
     "objectID": "posts/ml-clinical-challenges.html#conclusion",
